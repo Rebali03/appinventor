@@ -1,0 +1,222 @@
+[{
+		"id": "1",
+		"Pregunta": "¿Donde se encuentra el matadero actualmente?",
+		"res1": "Legazpi",
+		"res2": "Arganzuela",
+		"res3": "Amaniel",
+		"res4": "la calle de Toledo",
+		"imagen": "foto 1",
+		"correcta": "Legazpi",
+		"informacion": "El matadero y mercado municipal de ganados de Madrid fue un conjunto de 48 edificios y 165.415 metros cuadrados dedicado a realizar funciones de matadero industrial y mercado de ganados en la ciudad de Madrid durante la mayor parte del siglo XX."
+	},
+	{
+		"id": "2",
+		"Pregunta": "Donde estaba ubicado antes el Matadero",
+		"res1": "Legazpi",
+		"res2": "La dehesa de Arganzuela",
+		"res3": "Santa María de la Cabeza",
+		"res4": "Getafe",
+		"imagen": "foto 2",
+		"correcta": "La dehesa de Arganzuela",
+		"informacion": "La primera noticia que se tiene de la existencia de un matadero en Madrid se remonta al reinado de los Reyes Católicos, cuando se reorganizó el gremio de los carniceros en 1502."
+	},
+	{
+		"id": "3",
+		"Pregunta": "¿Cuál es el nombre del edificio industrial construido en 1892 en la calle Toledo que alberga actualmente el Museo de Artes Decorativas?",
+		"res1": "Fábrica de Tabacos Condal",
+		"res2": "Fábrica de Cervezas El Águila",
+		"res3": "Nave Boetticher",
+		"res4": "Matadero",
+		"imagen": "foto 3",
+		"correcta": "Fábrica de Tabacos Condal",
+		"informacion": "El proyecto de la edificación de esta fábrica fue debido a la necesidad de colocar en un sitio determinado los productos estancados del monopolio del Estado español, tales como el aguardiente, los licores, las barajas de juego, el papel sellado, y depósito de efectos plomizos"
+	},
+	{
+		"id": "4",
+		"Pregunta": "¿Qué antiguo edificio en Madrid fue originalmente construido como una fábrica de gas y luego convertido en un centro cultural?",
+		"res1": "Puerta del Sol",
+		"res2": "Centro Cultural Galileo",
+		"res3": "CaixaForum",
+		"res4": "Matadero Madrid",
+		"imagen": "foto 4",
+		"correcta": "Matadero Madrid",
+		"informacion": "En los años ochenta se transformó el edificio de dirección y administración, la Casa del Reloj, en sede de la Junta Municipal del distrito de Arganzuela."
+	},
+	{
+		"id": "5",
+		"Pregunta": "¿Cuándo se inauguró el planetario de Madrid?",
+		"res1": "29 de Enero de 2016",
+		"res2": "29 septiembre de 1986",
+		"res3": "18 de Noviembre de 1990",
+		"res4": "29 de septiembre de 1996",
+		"imagen": "foto 5",
+		"correcta": "29 septiembre de 1986",
+		"informacion": "El Planetario de Madrid es un centro dependiente del Área de Cultura, Turismo  y Deportes del Ayuntamiento de Madrid, que fue inaugurado el 29 de septiembre de 1986. Durante los años 2016 y 2017 fue sometido a una profunda renovación tanto tecnológica como de las instalaciones y edificio, posible en virtud de un acuerdo de colaboración entre el Ayuntamiento de Madrid y la Fundación “La Caixa”."
+	},
+	{
+		"id": "6",
+		"Pregunta": "¿Cual es el teatro más famoso de Madrid?",
+		"res1": "Teatro del Canal",
+		"res2": "Teatro real",
+		"res3": "Teatro Español",
+		"res4": "Teatro Lope de Vega",
+		"imagen": "foto 6",
+		"correcta": "Teatro real",
+		"informacion": "La primera piedra del Teatro Real se colocó el 23 de abril de 1818, bajo el reinado de Fernando VII, y fue inaugurado formalmente por su hija la reina Isabel II el 19 de noviembre de 1850. Cerró en 1925 debido a los daños sufridos por el edificio y reabrió el 13 de octubre de 1966 como sala de música sinfónica. A partir de 1991, se sometió a importantes obras de remodelación y renovación y finalmente reabrió como teatro de ópera el 11 de octubre de 1997 con una superficie de 78.210 metros cuadrados y un aforo máximo de 1.958 localidades."
+	},
+	{
+		"id": "7",
+		"Pregunta": "¿Qué año se construyó la Puerta de Toledo?",
+		"res1": "1827",
+		"res2": "1904",
+		"res3": "1830",
+		"res4": "1813",
+		"imagen": "foto 7",
+		"correcta": "1827",
+		"informacion": "La Puerta de Toledo ha albergado a lo largo de su historia varias cápsulas del tiempo enterradas a sus pies. La primera de ellas fue guardada en 1813 e incluía varias monedas de la época, guías de Madrid, calendarios y la Constitución del gobierno de José I."
+	},
+	{
+		"id": "8",
+		"Pregunta": "¿Qué arquitecto es el principal responsable del diseño de la Puerta de Toledo?",
+		"res1": "Manuel Martín Rodríguez",
+		"res2": "Juan Antonio Cuervo",
+		"res3": "Antonio López Aguado",
+		"res4": "Silvestre Pérez",
+		"imagen": "foto 8",
+		"correcta": "Antonio López Aguado",
+		"informacion": "Fue discípulo de discípulo de Juan de Villanueva, estudió en la Real Academia de Bellas Artes de San Fernando, siendo pensionado para continuar su formación en Italia y en Francia. En 1795 fue nombrado miembro de la Comisión de Arquitectura de la Academia, así como profesor en la misma. En 1799 fue nombrado Teniente Director de Arquitectura y finalmente en 1805 Director de Arquitectura."
+	},
+	{
+		"id": "9",
+		"Pregunta": "¿En qué año se finalizó la construcción de la Puerta de Alcalá?",
+		"res1": "1599",
+		"res2": "1714",
+		"res3": "1590",
+		"res4": "1778",
+		"imagen": "foto 9",
+		"correcta": "1778",
+		"informacion": "La Puerta de Alcala ha sido restaurada cinco veces (cuatro de ellas en el siglo XX). Como curiosidad adicional, esta Puerta de Alcalá, este arco de triunfo romano, fue el primero que se construyó en Europa tras la caída del Imperio Romano."
+	},
+	{
+		"id": "10",
+		"Pregunta": "¿Qué estilo arquitectónico tiene la Puerta de Alcalá?",
+		"res1": "Neoclásico",
+		"res2": "Renacentista",
+		"res3": "Barroco",
+		"res4": "Románico",
+		"imagen": "foto 10",
+		"correcta": "Neoclásico",
+		"informacion": "Existía otra «Puerta de Alcalá», construida de ladrillo y emplazada en el cruce de la calle Barquillo con Alcalá. A esta primera puerta, se la conocía popularmente como «Puerta de la peste de la calle Alcalá«,  pues se utilizó como punto de cierre a la población de Madrid durante la peste que azotó a Madrid durante el siglo XVI."
+	},
+	{
+		"id": "11",
+		"Pregunta": "¿En qué año se finalizó la construcción del Banco de España?",
+		"res1": "17 de diciembre de 2003",
+		"res2": "20 de diciembre de 2006",
+		"res3": "17 de enero de 1999",
+		"res4": "17 de diciembre de 1999",
+		"imagen": "foto 11",
+		"correcta": "17 de diciembre de 1999",
+		"informacion": "El Banco de España fue fundado en el siglo XVIII, exactamente el 2 de junio de 1782, por el rey Carlos III. El día en el que se colocó la primera piedra para su construcción, el presidente del Gobierno era Antonio Cánovas del Castillo."
+	},
+	{
+		"id": "12",
+		"Pregunta": "¿Dónde se encuentra el mercado de San Miguel?",
+		"res1": "Plaza Mayor de Madrid",
+		"res2": "Lope de Vega",
+		"res3": "La Cebada",
+		"res4": "Chamberí",
+		"imagen": "foto 12",
+		"correcta": "Plaza Mayor de Madrid",
+		"informacion": "¿Sabías que en el emplazamiento donde se encuentra ubicado el mercado, hubo antes una iglesia donde fue bautizado Lope de Vega?"
+	},
+	{
+		"id": "13",
+		"Pregunta": "¿Cuántas veces fue reconstruido el puente de Toledo?",
+		"res1": "Dos veces en 1630 y en 1700",
+		"res2": "Dos veces en 1680 y en 1715",
+		"res3": "Una vez en 1715",
+		"res4": "Tres veces en 1660, en 1680 y en 1715",
+		"imagen": "foto 13",
+		"correcta": "Dos veces en 1680 y en 1715",
+		"informacion": "El primer proyecto fue concebido por Juan Gómez de Mora y construido por José de Villarreal entre 1649 y 1660, y era conocido con el nombre de Puente Toledana. Sin embargo, una crecida del río lo destruyó poco después, obligando a proyectar uno nuevo en 1671. En 1680, recién terminado el nuevo puente, otra riada lo volvió a destruir. En esta ocasión los encargados de su reconstrucción fueron José del Olmo, que realizó el diseño en 1682 y José de Arroyo. Las líneas básicas de este proyecto fueron mantenidas por Teodoro Ardemans cuando se hizo cargo de las obras en 1684. Pedro de Ribera fue encargado de realizar el puente actual en el año 1715. Sin embargo, no se retomó el proyecto hasta 1718, cuando el corregidor Francisco Antonio de Salcedo y Aguirre, marqués de Vadillo, se propuso terminar la obra. Estas comenzaron en 1719 y concluyeron en 1732."
+	},
+	{
+		"id": "14",
+		"Pregunta": "¿Cuál fue la primera residencia del Casino de Madrid?",
+		"res1": "Uno de los edificios de la calle Sevilla",
+		"res2": "El Palacio de la Equitativa",
+		"res3": "Uno de los edificios de la calle Alcalá",
+		"res4": "El actual Ayuntamiento de Madrid",
+		"imagen": "foto 14",
+		"correcta": "El Palacio de la Equitativa",
+		"informacion": "Fundado en 1836 como club social independiente políticamente hablando. La institución, ya centenaria, ha poseído diversas sedes itinerantes a lo largo de su historia. Comenzando en el Café Sólito en 1836 como una sociedad de recreo de poco más de medio centenar de socios. El constante crecimiento de aforo de socios hizo que fuese desplazándose de sede por la zona del Centro de Madrid (cercanas a la Puerta del Sol). Hasta que definitivamente se establece la sede oficial actual de Alcalá 15 diseñada por diversos arquitectos.​ El Casino, como centro de reunión del poder decimonónico, es un elemento importante dentro de la historia contemporánea de España. El Casino, el Veloz Club y la Gran Peña (1869-1917) son los tres puntos de reunión elegantes de la nobleza y alta burguesía madrileña de finales del siglo XIX.10​ De lejos, en popularidad y número se encontraba La Farmacia del Fornos."
+	},
+	{
+		"id": "15",
+		"Pregunta": "¿Qué escuela de ingeniería dependiente de la Universidad Politécnica esta situada en el Palacio de las Artes y la Industria de Madrid?",
+		"res1": "Escuela Técnica Superior de Ingenieros Industriales Universidad Politécnica de Madrid",
+		"res2": "Escuela Técnica de Enseñanzas Especializadas SA",
+		"res3": "Escuela Técnica Superior de Ingeniería Agronómica, Alimentaria y de Biosistemas",
+		"res4": "Escuela Técnica Superior de Ingeniería y Diseño Industrial",
+		"imagen": "foto 15",
+		"correcta": "Escuela Técnica Superior de Ingenieros Industriales Universidad Politécnica de Madrid",
+		"informacion": "El 4 de septiembre de 1845 el ministro de Comercio, Seijas Lozano, sometió a la reina Isabel II la aprobación del Decreto para la fundación de la carrera de Ingeniero Industrial.1​ Ésta contaba con dos especialidades: Mecánica y Química. La carrera sería cursada en Madrid, en la Escuela Central del llamado Real Instituto Industrial, creado para ello.2​ Su precedente histórico se encontraba en el Real Gabinete de Máquinas (1791-1824) creado por Agustín de Betancourt."
+	},
+	{
+		"id": "16",
+		"Pregunta": "¿Dónde se encuentra la real fábrica de tapices de madrid?",
+		"res1": "en el barrio de Pacífico de Madrid",
+		"res2": "en el barrio de Salamanca de Madrid",
+		"res3": "en el barrio de Rio Rosas de Madrid",
+		"res4": "en el barrio de vallecas en Madrid",
+		"imagen": "foto 16",
+		"correcta": "en el barrio de Pacífico de Madrid",
+		"informacion": "A finales del siglo XIX, con la ampliación de la ciudad, la Real Fábrica trasladó su actividad a un local de la calle Fuenterrabía construido entre 1881 y 1891. El nuevo edificio, de estilo neomudéjar, fue diseñado por el arquitecto José Segundo de Lema. Recuperó su condición de Real Fábrica en 1982 y en 1992 fue consolidada y reformada. En el año 2006 fue declarada Bien de Interés Cultural​ en la categoría de Monumento, en la que el edificio sería el soporte físico de la actividad, aunque no cabe duda de que esta última debiera ser por sí misma merecedora de protección singular."
+	},
+	{
+		"id": "17",
+		"Pregunta": "¿Como se le conoce históricamente a la estación del norte?",
+		"res1": "Estación de Atocha",
+		"res2": "Chamartín",
+		"res3": "Príncipe Pío",
+		"res4": "Estación de Aluche",
+		"imagen": "foto 17",
+		"correcta": "Príncipe Pío",
+		"informacion": "La actual estación de Príncipe Pío fue en origen la estación del Norte, construida como terminal en Madrid de la línea General del Norte o Imperial (Madrid-Irún), perteneciente a la antigua Compañía de los Caminos de Hierro del Norte de España, por lo que su origen está irremediablemente unido al de la línea ferroviaria en cuestión. La construcción de la línea comenzó en 1856, mientras que la de la estación no empezó hasta 1859. El proyecto corrió a cargo de ingenieros franceses, de quienes tomó su nombre el puente que salva el río. Así, el primitivo embarcadero abrió sus puertas en junio de 1861, aunque con una línea que sólo llegaba hasta El Escorial."
+	},
+	{
+		"id": "18",
+		"Pregunta": "¿Porque se quiso crear el museo del ferrocaril de Madrid?",
+		"res1": "Por tener otro museo en Madrid",
+		"res2": "Por el 100 aniversario del primer ferrocarril peninsular",
+		"res3": "Por el 50 aniversario del primer ferrocarril Europeo",
+		"res4": "Por tener un recuerdo de los primeros ferrocarriles que hubo en españa",
+		"imagen": "foto 18",
+		"correcta": "Por el 100 aniversario del primer ferrocarril peninsular",
+		"informacion": "En 1967 se abrió en España el primer museo dedicado al ferrocarril, en el Palacio de Fernán Núñez de Madrid (actual sede de la Fundación de los Ferrocarriles Españoles). Exhibía una locomotora de vapor original,3​ maquetas, fotografías, grabados y objetos relacionados con la historia y la explotación del ferrocarril. Allí permaneció hasta 1983, año en el que se trasladó a la Estación de Madrid Delicias, cerrada al servicio ferroviario en 1971. El Museo del Ferrocarril de Madrid abrió sus puertas al público el 19 de diciembre de 1984 en la Estación de Madrid Delicias"
+	},
+	{
+		"id": "19",
+		"Pregunta": "¿Cuál fue el uso anterior del edificio del Caixa Forum?",
+		"res1": "Central Electrica",
+		"res2": "Fabrica de Algodon",
+		"res3": "Almacenes industriales",
+		"res4": "Centro Comercial",
+		"imagen": "foto 19",
+		"correcta": "Central Electrica",
+		"informacion": "La Fundación la Caixa adquirió el antiguo edificio y emprendió labores de reforma y remodelación completa del inmueble para convertirlo en un centro social y cultural, al cual llamó CaixaForum Madrid siguiendo el ejemplo de CaixaForum Barcelona."
+	},
+	{
+		"id": "20",
+		"Pregunta": "¿Cuál es uno de los edificios relacionados con patrimonio industrial menos valorados?",
+		"res1": "Chimeneas",
+		"res2": "Matadero",
+		"res3": "Medialab Prado",
+		"res4": "Sociedad Gasificadora Industrial",
+		"imagen": "foto 20",
+		"correcta": "Sociedad Gasificadora Industrial",
+		"informacion": "La Sociedad Gasificadora Industrial era competidora directa de Gas Madrid, y tras construir el Salto de Bolarque, amplió sus instalaciones con los actuales edificios situados en el entorno de Estación Sur de Autobuses. En 1912 la SGI fue absorbida por Unión Eléctrica Madrileña que más tarde se fusionó con Fenosa dando lugar a Unión Fenosa"
+
+	}
+]
